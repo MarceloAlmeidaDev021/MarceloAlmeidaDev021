@@ -1,4 +1,4 @@
-# 👋 Hi, welome to my GitHub profile
+# 👋 Hi, welcome to my GitHub profile
 
 ## My name is Marcelo and my nickname is "mircelu"!
 - Student of Systems Analysis and Development at Uninove University
