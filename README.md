@@ -2,7 +2,7 @@
 
 ## My name is Marcelo and my nickname is "mircelu"!
 - Student of Systems Analysis and Development at Uninove University
-- Currently learning JavaScript and C on Alura
+- Currently learning JavaScript and C# on Alura
 
 ## Languages and Tools
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -12,7 +12,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/>
+  
 </p>
 
 ## Reach Me
